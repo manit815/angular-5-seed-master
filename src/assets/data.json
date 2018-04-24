@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "5adf6c25629ee80ffb918c88",
+    "index": 0,
+    "guid": "2d10473c-f394-44f0-8c68-9e13fa57dfe0",
+    "isFavourite": false,
+    "title": "Becker Watson",
+    "company": "SPEEDBOLT",
+    "info": "Aliquip in fugiat sit ut laboris est quis ut.",
+    "description": "Tempor Lorem ipsum adipisicing voluptate est ad sit fugiat ullamco elit voluptate id tempor. Non nisi voluptate amet eu eu exercitation cupidatat anim cillum fugiat veniam est anim. In culpa qui sint velit tempor consequat amet duis duis fugiat amet exercitation magna. Exercitation quis sunt nostrud eu. Commodo laboris commodo fugiat id laboris quis cupidatat veniam cupidatat eiusmod mollit irure.\r\nMagna eu sint irure reprehenderit dolor. Eu incididunt adipisicing esse fugiat id nostrud commodo. Nisi laborum enim dolor laboris. Anim nisi esse ut pariatur mollit veniam deserunt.\r\n"
+  },
+  {
+    "_id": "5adf6c25ed52b7d85b97aa1c",
+    "index": 1,
+    "guid": "a21df5fe-5402-4e44-89b7-cd1c98204fcb",
+    "isFavourite": false,
+    "title": "Chandler Vazquez",
+    "company": "BUGSALL",
+    "info": "Ipsum deserunt dolor duis sunt do anim ea veniam minim exercitation aute.",
+    "description": "Magna velit enim veniam labore deserunt cupidatat elit duis consequat duis id mollit amet. Culpa excepteur aliquip dolore exercitation labore nostrud est dolor laboris dolore ex fugiat. Eiusmod aliquip fugiat veniam cillum eiusmod aliquip amet. Voluptate proident non velit magna pariatur commodo excepteur culpa cillum duis dolore voluptate consectetur nostrud. Quis veniam labore irure eu elit.\r\nNon et irure enim commodo duis anim magna ea tempor. Irure ut in deserunt cupidatat mollit velit elit. Cupidatat nisi adipisicing minim in veniam cillum cupidatat ipsum cillum laboris nisi. Do aliquip excepteur voluptate minim aliquip irure sunt minim excepteur reprehenderit nisi ea. Enim Lorem nostrud pariatur culpa magna nulla in. Ullamco laborum qui do consectetur enim ea sint quis officia aute ex.\r\n"
+  },
+  {
+    "_id": "5adf6c251bb8ae8474b79915",
+    "index": 2,
+    "guid": "0a2cd7a7-4127-45e8-a41f-cddf240d2743",
+    "isFavourite": false,
+    "title": "Tucker Gardner",
+    "company": "ZOMBOID",
+    "info": "Consectetur nulla adipisicing aliquip proident.",
+    "description": "Lorem sit aliqua quis do reprehenderit ut anim aliqua cupidatat eu ut aute tempor. Tempor dolore irure pariatur ex commodo commodo ex sunt officia esse. Dolor mollit magna eu nostrud ipsum est magna minim.\r\nProident aliqua voluptate consectetur in proident labore ea. Ullamco duis officia deserunt nulla. Officia enim aliqua velit dolor officia quis laborum aute aliquip. Sint sit minim enim commodo consectetur esse eiusmod nostrud consequat do.\r\n"
+  },
+  {
+    "_id": "5adf6c2582f3235e82b9bc5c",
+    "index": 3,
+    "guid": "7f7e22aa-8df7-4cd3-b229-44f465465fef",
+    "isFavourite": true,
+    "title": "Lorena Guzman",
+    "company": "EURON",
+    "info": "Ad sit sint anim tempor ipsum et anim sit nostrud nisi quis sit sunt reprehenderit.",
+    "description": "Irure ullamco occaecat nisi consectetur tempor est irure minim nulla exercitation culpa velit est. Nostrud et minim quis eu quis ea enim elit. Eu labore in esse exercitation ut aute ut sunt. Laboris incididunt ea tempor laboris excepteur. Labore mollit amet anim incididunt sunt ea cillum et nostrud.\r\nEu veniam amet exercitation quis cillum amet laboris. Velit sunt eiusmod magna excepteur fugiat non fugiat reprehenderit laborum enim aliquip commodo magna non. Enim sunt ea in consectetur velit dolore. Mollit culpa consequat ea est duis incididunt excepteur quis. Et est labore nisi quis sint cupidatat voluptate ullamco anim commodo. Veniam amet qui adipisicing deserunt cupidatat occaecat do esse adipisicing ad sint consectetur sunt irure.\r\n"
+  },
+  {
+    "_id": "5adf6c2507d1bd0adf7bf5bd",
+    "index": 4,
+    "guid": "a2809be8-e6a4-4b39-b2db-8ac67785392d",
+    "isFavourite": true,
+    "title": "Keller Reynolds",
+    "company": "ENTROPIX",
+    "info": "Dolor veniam sint esse consectetur fugiat elit.",
+    "description": "Lorem pariatur qui cillum voluptate dolore labore et laboris proident qui. Anim elit occaecat anim proident cillum eu. Anim sit id incididunt est ullamco culpa proident velit proident ex veniam. In nulla ad cillum pariatur dolore Lorem excepteur. Duis laborum aute cupidatat deserunt ad deserunt. Elit duis incididunt culpa dolore tempor commodo occaecat consequat magna in sit laboris enim Lorem. Reprehenderit labore sit ex cupidatat do.\r\nOfficia pariatur occaecat veniam dolor aliquip ullamco do et. Veniam anim ex id est in excepteur in laborum veniam. Duis Lorem occaecat qui pariatur proident elit veniam in non nostrud ut. Anim eiusmod enim elit ipsum labore amet fugiat non. Consectetur proident ad occaecat tempor magna exercitation pariatur commodo anim excepteur amet culpa do.\r\n"
+  },
+  {
+    "_id": "5adf6c256606007f51db9bd2",
+    "index": 5,
+    "guid": "9cc59c3b-14ca-41af-8464-93eef1bb2d4c",
+    "isFavourite": true,
+    "title": "Rosales Odom",
+    "company": "VALREDA",
+    "info": "Consectetur ex ut minim amet occaecat non in in culpa cillum magna do.",
+    "description": "Reprehenderit nulla nulla occaecat voluptate velit in Lorem anim mollit. Anim ut voluptate occaecat elit dolor esse consequat qui. Magna aliqua duis eiusmod enim sunt duis fugiat nisi qui. Ullamco dolore et cillum est pariatur reprehenderit consectetur incididunt. Sit officia amet ullamco incididunt reprehenderit cupidatat est sint ullamco dolor sint. Mollit veniam velit veniam mollit aute pariatur fugiat.\r\nMollit excepteur eu minim ea labore et ipsum. Nulla officia laboris pariatur ea nulla mollit. Proident eu veniam cupidatat do id. Enim reprehenderit cupidatat Lorem aliquip id irure anim ex incididunt do minim. Voluptate aliquip ullamco aliquip ad.\r\n"
+  },
+  {
+    "_id": "5adf6c25212fbdb6429b16a1",
+    "index": 6,
+    "guid": "e2ef5428-e623-41eb-8ca6-d4e8fff18a06",
+    "isFavourite": false,
+    "title": "Corine Downs",
+    "company": "ZENSOR",
+    "info": "Qui in elit laborum veniam fugiat irure laboris consectetur dolore cillum dolor officia.",
+    "description": "Cillum elit deserunt dolor proident id enim laborum adipisicing. Aliqua Lorem esse voluptate eu excepteur. Magna ut esse et labore nulla est labore commodo amet adipisicing aute quis tempor. Pariatur ad nisi fugiat nisi nulla nulla ex enim ex laborum.\r\nLorem non anim laboris sunt. Do cupidatat sint dolore laborum quis ea. Quis ad pariatur fugiat nisi enim commodo reprehenderit minim magna nulla esse tempor. Amet duis qui non do minim Lorem dolor laborum. In fugiat incididunt nostrud enim aliqua.\r\n"
+  },
+  {
+    "_id": "5adf6c25f961847c00b27a2d",
+    "index": 7,
+    "guid": "5b540c97-fd74-485e-b22c-3620fd6c08ec",
+    "isFavourite": false,
+    "title": "Marci Dennis",
+    "company": "ECRAZE",
+    "info": "Mollit qui labore tempor adipisicing irure eiusmod consequat consectetur nisi culpa.",
+    "description": "Culpa consequat proident ut labore aute irure sint aliqua. Culpa ut aliquip amet amet non dolor eu veniam ad sit. Dolor eu qui cillum irure velit consectetur aute enim officia incididunt qui. Nostrud cupidatat fugiat in laboris Lorem cupidatat commodo aliquip id ut ea nisi est. Occaecat ex reprehenderit consectetur proident sint dolore.\r\nConsectetur Lorem velit ipsum laboris reprehenderit Lorem. Consectetur in magna anim dolor incididunt sunt non eiusmod ex exercitation. Nisi elit fugiat mollit eu dolor incididunt ex aliquip enim amet elit pariatur. Mollit eu incididunt cupidatat qui.\r\n"
+  },
+  {
+    "_id": "5adf6c257deb2b52ee334262",
+    "index": 8,
+    "guid": "04ab6d95-426a-42c1-bcb7-fbd66cd091c0",
+    "isFavourite": false,
+    "title": "Martha Blackburn",
+    "company": "DIGIQUE",
+    "info": "Ad exercitation do id adipisicing aute do magna non exercitation.",
+    "description": "Velit cillum nostrud fugiat amet adipisicing sint. Cupidatat aute sint eu aliquip duis quis minim magna laboris sit aute consectetur quis. Nostrud ut ullamco ipsum officia. Officia veniam ad adipisicing excepteur nostrud commodo est voluptate ut nostrud adipisicing aliquip ea duis. Velit quis dolor tempor labore ullamco Lorem occaecat laborum quis ipsum labore. Ipsum incididunt aliqua officia ipsum incididunt exercitation veniam duis nulla qui nisi. Irure tempor ad enim cillum est.\r\nDeserunt consectetur aliquip amet do mollit mollit cillum occaecat consectetur ullamco voluptate irure aliquip. Aute eu magna commodo dolore incididunt minim sint dolore id pariatur duis. Laborum ea laborum officia irure amet magna minim tempor pariatur. Lorem reprehenderit nulla voluptate dolore id amet nulla ex reprehenderit exercitation ipsum est. Dolore Lorem consequat et in cillum cillum dolore nisi do nostrud dolore officia.\r\n"
+  },
+  {
+    "_id": "5adf6c257f5c2f9195e7c78c",
+    "index": 9,
+    "guid": "31e59c08-f24c-4a6d-8e23-832d44a5e0ed",
+    "isFavourite": true,
+    "title": "Kristina Huber",
+    "company": "ROCKLOGIC",
+    "info": "Aute mollit irure labore sunt incididunt dolor.",
+    "description": "Culpa ea aliquip sunt commodo. Amet labore occaecat ad id sit deserunt. Aliqua elit culpa cupidatat anim tempor cupidatat eiusmod velit eiusmod irure voluptate laboris nisi. Lorem sint non veniam aliqua esse do tempor voluptate do.\r\nPariatur voluptate sunt magna cupidatat excepteur commodo aute ea non anim. Qui adipisicing sit fugiat laborum duis in consequat ea nisi mollit laborum ea eu. Sint eiusmod laboris aliquip aute velit incididunt est et consequat sit deserunt labore. Reprehenderit exercitation proident enim officia nisi culpa exercitation nisi nisi aute dolor exercitation do. Sunt cillum do excepteur dolor commodo ipsum minim ut ex aliqua.\r\n"
+  },
+  {
+    "_id": "5adf6c2588359eae9c2f7117",
+    "index": 10,
+    "guid": "41a1f375-6b69-4c24-8226-2aefd42cd521",
+    "isFavourite": false,
+    "title": "Owen Riggs",
+    "company": "PORTICA",
+    "info": "Occaecat nisi Lorem do laboris irure consectetur id.",
+    "description": "Incididunt quis aute officia et incididunt deserunt. Lorem laborum ex culpa in do consequat duis ad enim consequat nostrud dolore. Velit officia non sint enim et labore ad elit tempor nisi. Deserunt dolor ut dolor sunt elit nostrud aliqua elit nostrud in. Consequat sint irure aliquip eu commodo nostrud consectetur magna. Id ullamco irure anim dolore elit sint consectetur labore.\r\nEu aliquip ipsum duis enim adipisicing ullamco reprehenderit proident quis. Lorem pariatur eiusmod culpa esse proident excepteur. Amet sint cillum magna ullamco sint dolor incididunt id sint excepteur adipisicing. Magna officia cupidatat commodo sit eiusmod. Magna in occaecat ullamco mollit id fugiat duis id excepteur dolore et commodo consequat. Irure proident sint tempor incididunt aliquip exercitation fugiat sunt eu velit fugiat est nostrud officia. Tempor velit incididunt eiusmod aliquip et ea Lorem duis.\r\n"
+  },
+  {
+    "_id": "5adf6c25dc42c46a7ab6a297",
+    "index": 11,
+    "guid": "aa60078c-c9e9-45ee-9d33-2ca250b309ed",
+    "isFavourite": true,
+    "title": "Bradley Bowers",
+    "company": "BUZZOPIA",
+    "info": "Exercitation ut qui occaecat elit ullamco ut.",
+    "description": "Quis magna ullamco laborum culpa mollit ad et in mollit consectetur eiusmod. Officia ipsum irure aute nostrud aliqua irure duis non laborum et ad consectetur officia. Commodo fugiat consectetur mollit velit velit Lorem do laborum consequat amet quis amet occaecat.\r\nSint labore pariatur consectetur minim et ex adipisicing id occaecat ut adipisicing. Fugiat excepteur proident ut aliquip aute pariatur commodo proident nisi culpa tempor ullamco ullamco. Officia non elit ad anim culpa eu et officia esse ullamco aliqua est elit. Tempor eiusmod dolore ex duis amet pariatur ex aute.\r\n"
+  },
+  {
+    "_id": "5adf6c25b5f5a38341c8d162",
+    "index": 12,
+    "guid": "498a8822-2e7b-483c-b48b-3fb6228b88a0",
+    "isFavourite": true,
+    "title": "Rowena Zamora",
+    "company": "DEMINIMUM",
+    "info": "Adipisicing laboris excepteur ut sit ad minim irure dolore enim.",
+    "description": "In non officia nostrud anim veniam. Ex excepteur aute Lorem laboris quis enim dolor ullamco eu ea. Voluptate cupidatat do consectetur nisi quis fugiat. Non eu officia sint aliqua minim eu tempor commodo reprehenderit pariatur. Sunt ex do commodo incididunt. Fugiat do ea dolor eu aute aliquip ad minim ea aliquip dolore deserunt labore. Enim consectetur culpa incididunt enim nisi enim ex voluptate ullamco nisi duis enim ullamco.\r\nSit et in dolore consequat exercitation. Ut aliqua in irure laborum aliquip qui proident. Deserunt incididunt sint amet quis occaecat proident cupidatat commodo enim elit. Dolor excepteur commodo reprehenderit nulla veniam exercitation amet eiusmod. Ea officia nostrud elit reprehenderit dolor magna nostrud anim dolor laborum laborum mollit nostrud.\r\n"
+  },
+  {
+    "_id": "5adf6c254d12238d17b9f3dd",
+    "index": 13,
+    "guid": "2e0c01ad-2553-44d5-8999-4d5f55f46ed9",
+    "isFavourite": true,
+    "title": "Holcomb Lancaster",
+    "company": "UPLINX",
+    "info": "Sit adipisicing proident sit nostrud enim est esse ut est adipisicing.",
+    "description": "Elit ad reprehenderit incididunt nulla est non aliquip tempor. Velit non culpa cillum veniam ipsum consectetur officia fugiat voluptate aliqua aute minim id ut. Laborum esse culpa officia cillum ad do veniam. Sint voluptate cillum sit laboris incididunt do officia commodo laborum veniam. Aliqua proident eiusmod mollit incididunt non magna aliquip elit qui ex elit ipsum. Occaecat eu Lorem esse anim ex. Ad in laboris reprehenderit enim do sunt commodo ullamco tempor est eiusmod.\r\nConsequat veniam tempor excepteur anim excepteur. Cillum laborum officia mollit deserunt. Eiusmod deserunt in non anim ut enim est ullamco do cupidatat qui ex. Aliqua cillum et dolore ipsum reprehenderit nulla Lorem. Dolor commodo occaecat cillum in nulla excepteur exercitation sunt fugiat amet esse id consectetur ipsum. Nisi laboris mollit aute commodo.\r\n"
+  },
+  {
+    "_id": "5adf6c25187ad35e8b7b9712",
+    "index": 14,
+    "guid": "7c71ec14-6699-4aae-b4c6-bdae14c6bfe1",
+    "isFavourite": false,
+    "title": "Walsh Singleton",
+    "company": "PROGENEX",
+    "info": "Minim proident nisi dolore ea consequat qui.",
+    "description": "Eiusmod ut adipisicing velit exercitation labore eiusmod excepteur consequat veniam ea culpa nulla labore. Cillum veniam cillum veniam veniam ullamco cupidatat. Officia pariatur nulla consectetur veniam consequat.\r\nEt enim fugiat dolor deserunt velit. Et mollit commodo ad laboris labore fugiat. Et proident ullamco et cillum consectetur irure. Reprehenderit qui cillum velit dolore.\r\n"
+  }
+]
