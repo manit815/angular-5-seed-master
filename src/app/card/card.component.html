@@ -1,0 +1,60 @@
+
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Heading 1</th>
+        <th>Heading 2</th>
+      </tr>
+    </thead>
+    <tbody >
+      <tr>
+        <td>
+          <div *ngFor="let card of cards">
+            <div class="card">
+              <div class="card-header">
+            <span> {{card.title}}
+              <img *ngIf="card.isFavourite" class="star" src="../assets/filled-star.png" (click)="card.isFavourite = false">
+              <img *ngIf="!card.isFavourite" class="star" src="../assets/star.png" (click)="card.isFavourite = true">
+            </span>
+              </div>
+              <div class="card-body">
+                <button type="button" class="btn btn-info info" (click)="openModal(information)">Info</button>
+                <ng-template #information>
+                  <div class="modal-header">
+                    <h4 class="modal-title pull-left">Information</h4>
+                    <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    {{card.info}}
+                  </div>
+                </ng-template>
+
+              </div>
+              <div class="card-footer">
+                <button type="button" class="btn btn-info desc" (click)="openCard(card)">Open</button>
+                  <!--<app-card-detail [description]="card.description"></app-card-detail>-->
+                  <!--<a [routerLink="['detail', card.description]"]>Open</a>-->
+                <!--<ng-template #template>-->
+                  <!--<div class="modal-header">-->
+                    <!--<h4 class="modal-title pull-left">Description</h4>-->
+                    <!--<button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">-->
+                      <!--<span aria-hidden="true">&times;</span>-->
+                    <!--</button>-->
+                  <!--</div>-->
+                  <!--<div class="modal-body">-->
+                    <!--{{card.description}}-->
+                  <!--</div>-->
+                <!--</ng-template>-->
+              </div>
+
+            </div>
+          </div>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
