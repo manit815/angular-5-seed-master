@@ -34,20 +34,8 @@
 
               </div>
               <div class="card-footer">
-                <button type="button" class="btn btn-info desc" (click)="openCard(card)">Open</button>
-                  <!--<app-card-detail [description]="card.description"></app-card-detail>-->
-                  <!--<a [routerLink="['detail', card.description]"]>Open</a>-->
-                <!--<ng-template #template>-->
-                  <!--<div class="modal-header">-->
-                    <!--<h4 class="modal-title pull-left">Description</h4>-->
-                    <!--<button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">-->
-                      <!--<span aria-hidden="true">&times;</span>-->
-                    <!--</button>-->
-                  <!--</div>-->
-                  <!--<div class="modal-body">-->
-                    <!--{{card.description}}-->
-                  <!--</div>-->
-                <!--</ng-template>-->
+                <!--<button type="button" class="btn btn-info desc" (click)="openCard(card)">Open</button>-->
+                <button type="button" class="btn btn-info desc" (click)="openCard(card._id)">Open</button>
               </div>
 
             </div>

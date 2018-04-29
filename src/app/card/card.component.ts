@@ -25,8 +25,12 @@ export class CardComponent implements OnInit {
       this.modalRef = this.modalService.show(template);
   }
 
-  public openCard(detail: Data) {
+  /*public openCard(detail: Data) {
     this.router.navigate(['/detail', detail]);
+  }*/
+
+  public openCard(_id: string) {
+      this.router.navigate(['/detail', _id]);
   }
 
 }
