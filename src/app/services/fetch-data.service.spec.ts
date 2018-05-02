@@ -23,7 +23,7 @@ describe('FetchDataService', () => {
   }));
 
   it(
-      'should get users',
+      'should get cards',
       inject(
         [HttpTestingController, FetchDataService],
         (httpMock: HttpTestingController, fetchDataService: FetchDataService) => {
