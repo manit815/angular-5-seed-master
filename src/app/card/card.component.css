@@ -41,6 +41,8 @@ button.btn.btn-info.info {
   float: left;
 }
 
-button.btn.btn-info.desc {
+button.btn.btn-info.desc, .count {
   float: right;
 }
+
+

@@ -3,7 +3,7 @@
   <table class="table">
     <thead>
       <tr>
-        <th>Heading 1</th>
+        <th>Heading 1 <span class="count" *ngIf="cards">Count {{favoriteCount}}/{{cards.length}}</span></th>
         <th>Heading 2</th>
       </tr>
     </thead>
@@ -14,8 +14,8 @@
             <div class="card">
               <div class="card-header">
             <span> {{card.title}}
-              <img *ngIf="card.isFavourite" class="star" src="../assets/filled-star.png" (click)="card.isFavourite = false">
-              <img *ngIf="!card.isFavourite" class="star" src="../assets/star.png" (click)="card.isFavourite = true">
+              <img *ngIf="card.isFavourite" class="star" src="../assets/filled-star.png" (click)="markFavorite(card)">
+              <img *ngIf="!card.isFavourite" class="star" src="../assets/star.png" (click)="markFavorite(card)">
             </span>
               </div>
               <div class="card-body">
